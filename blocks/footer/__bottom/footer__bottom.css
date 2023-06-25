@@ -1,0 +1,8 @@
+.footer__bottom{
+width: 1200px;
+height: 173px;
+padding: 186px 0 117px 0;
+box-sizing: border-box;
+display: flex;
+justify-content: space-between;
+}

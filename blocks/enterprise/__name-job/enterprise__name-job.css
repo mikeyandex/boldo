@@ -1,0 +1,8 @@
+.enterprise__name-job {
+  width: 270px;
+  height: 58px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  box-sizing: border-box;
+}

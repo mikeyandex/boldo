@@ -1,0 +1,13 @@
+.customers__questions-wrapper {
+width: 100%;
+height: fit-content;
+display: flex;
+justify-content: space-between;
+border-bottom: solid 1px #C4C4C4;
+box-sizing: border-box;
+margin-bottom: 37px;
+}
+
+.customers__questions-wrapper:last-child {
+  margin: 0;
+}

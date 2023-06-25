@@ -1,0 +1,9 @@
+.footer__button-start {
+  width: 210px;
+  height: 60px;
+  border-radius: 56px;
+  line-height: 60px;
+  color: #0A2640;
+  background-color: #65E4A3;
+  border-width: 0;
+}

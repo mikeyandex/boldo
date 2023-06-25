@@ -1,0 +1,12 @@
+.connect__comment {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;  
+  color: #000000;
+  padding: 0 0 25px 0;
+  margin: 0 0 0 27px;
+}

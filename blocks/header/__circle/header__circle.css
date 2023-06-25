@@ -1,0 +1,10 @@
+.header__circle {
+  position: absolute;
+  width: 1293px;
+  height: 1293px;
+  left: 777px;
+  top: -789px;  
+  background: #1C3D5B;
+  border-radius: 50%;
+  z-index: 1;
+}

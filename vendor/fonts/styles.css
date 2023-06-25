@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Open Sans', sans-serif;
+  font-display: swap;
+  src: local('OpenSans-VariableFont_wdth,wght'),
+  url(./OpenSans-VariableFont_wdth%2Cwght.woff2) format('woff2'), 
+  url(./OpenSans-VariableFont_wdth%2Cwght.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Manrope-VariableFont_wght', sans-serif;
+  font-display: swap;
+  src: local('Manrope-VariableFont_wght'),
+  url(./Manrope-VariableFont_wght.woff2) format('woff2') 
+  url(./Manrope-VariableFont_wght.woff) format('woff');
+}

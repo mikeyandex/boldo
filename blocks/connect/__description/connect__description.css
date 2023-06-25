@@ -1,0 +1,9 @@
+.connect__description{
+  width: 500px;
+  height: 610px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 0 0 0 9px;
+  box-sizing: border-box;
+}

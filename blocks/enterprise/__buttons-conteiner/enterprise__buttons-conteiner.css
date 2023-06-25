@@ -1,0 +1,8 @@
+.enterprise__buttons-conteiner{
+  width: 172px;
+  height: 72px;
+  padding: 178px 0 57px 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,8 @@
+.header__wrapper {
+  width: fit-content;
+  height: min-content;
+  display: flex;
+  justify-content: space-between;
+  margin: 63px 10px 0 0;
+  z-index: 2;
+}

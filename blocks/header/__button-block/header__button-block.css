@@ -1,0 +1,7 @@
+.header__button-block {
+  width: 458px;
+  height: fit-content;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 40px;
+}

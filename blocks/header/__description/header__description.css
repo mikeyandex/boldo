@@ -1,0 +1,6 @@
+.header__description {
+  width: 1200px;;
+  height: 422px;
+  display: flex;
+  justify-content: space-between;
+}

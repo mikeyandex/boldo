@@ -1,0 +1,7 @@
+.connect__item {
+width: 100%;
+height: min-content;
+display: flex;
+justify-content:left;
+box-sizing: border-box;
+}

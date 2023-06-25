@@ -1,0 +1,8 @@
+.handshake__arrow {
+  width: 24px;
+  height: 26px;
+  background-image: url('../../../images/arrow-right.png');
+  background-size: auto;
+  margin-top: 5px;
+  box-sizing: border-box;
+}

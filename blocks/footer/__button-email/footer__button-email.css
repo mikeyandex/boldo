@@ -1,0 +1,13 @@
+.footer__button-email {
+  width: 373px;
+  height: 59px;
+  background-color: #ffffff;
+  border-radius: 59px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: left;
+  color: #000000;
+  box-sizing: border-box;
+  border-width: 0;
+  padding-left: 32px
+}

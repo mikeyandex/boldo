@@ -1,0 +1,9 @@
+.handshake__info {
+  width: 1400px;
+  height: 926px;
+  padding: 0 150px 0 150px;
+  display: grid;
+  grid-template-columns: repeat(3, 300px);
+  grid-template-rows: 354px;
+  column-gap: 100px;
+}

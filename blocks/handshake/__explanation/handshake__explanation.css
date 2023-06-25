@@ -1,0 +1,12 @@
+.handshake__explanation {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #777777;
+  margin: 0 auto;
+  padding: 0 0 12px 0;
+  width: 118px;
+  text-align: center;
+}

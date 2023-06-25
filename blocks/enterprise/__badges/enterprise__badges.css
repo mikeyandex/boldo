@@ -1,0 +1,8 @@
+.enterprise__badges {
+  width: 1400px;
+  height: fit-content;
+  padding: 0 155px 0 149px;
+  box-sizing: border-box;
+  display: flex;
+justify-content: space-between;
+}

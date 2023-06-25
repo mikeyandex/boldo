@@ -1,0 +1,7 @@
+.header__charts {
+  width: 494px;
+  height: 423px;
+  background-image: url('../../../images/hero\ graphics.png');
+  object-fit: contain;
+  z-index: 2;
+}

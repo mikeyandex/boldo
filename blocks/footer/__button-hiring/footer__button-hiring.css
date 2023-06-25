@@ -1,0 +1,20 @@
+.footer__button-hiring {
+  width: 72px;
+  height: 32px;
+  border-radius: 120px;
+  line-height: 30px;
+  color: #0A2640;
+  background-color: #65E4A3;
+  position: absolute;
+  top: 140px;
+  left: 342px;
+  font-family: Open Sans;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-left: 13px;
+  box-sizing: border-box;
+  border-width: 0;
+}

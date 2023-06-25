@@ -1,0 +1,9 @@
+.handshake__box {
+  width: 164px;
+  height: 44px;
+  display: flex;
+  margin-top: 33px;
+  box-sizing: border-box;
+  justify-content: space-between;
+  border-bottom: 1px solid #0A2640;
+}

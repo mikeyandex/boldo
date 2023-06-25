@@ -1,0 +1,7 @@
+.connect__check {
+width: 36px;
+height: 36px;
+background-image: url('../../../images/check.png');
+margin-bottom: 25px;
+box-sizing: border-box;
+}

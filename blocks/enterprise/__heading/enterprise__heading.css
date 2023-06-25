@@ -1,0 +1,17 @@
+.enterprise__heading {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  text-align: left;
+  color: #FFFFFF;
+  padding: 96px 0 72px 0;
+  margin: 0;
+  box-sizing: border-box;
+  display: block;
+  width: 716px;
+  height: 139px;
+  display: block;
+  box-sizing: border-box;
+}

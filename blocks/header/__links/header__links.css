@@ -1,0 +1,9 @@
+.header__links {
+  width: 1400px;
+  height: 42px;
+  margin: 90px 0 0 40px;
+  box-sizing: border-box;
+  background-image: url('../../../images/Logos.png');
+  background-repeat: no-repeat;
+  object-fit: none;
+}
