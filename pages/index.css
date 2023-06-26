@@ -44,6 +44,7 @@
 @import url(../blocks/connect/__heading/connect__heading.css);
 @import url(../blocks/connect/__heading/_padding_bottom/connect__heading_padding_bottom.css);
 @import url(../blocks/connect/__list/connect__list.css);
+@import url(../blocks/connect/__list/_padding_bottom/connect__list_padding_bottom.css);
 @import url(../blocks/connect/__item/connect__item.css);
 @import url(../blocks/connect/__item-bottom/connect__item-botom.css);
 @import url(../blocks/connect/__item-bottom/_colour_black/connect__item-botom_colour_black.css);

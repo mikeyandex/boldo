@@ -1,8 +1,8 @@
 .header__wrapper {
-  width: fit-content;
-  height: min-content;
+  width: 421px;
+  height: 40px;
   display: flex;
   justify-content: space-between;
-  margin: 63px 10px 0 0;
+  margin: 55px 7px 0 0;
   z-index: 2;
 }
