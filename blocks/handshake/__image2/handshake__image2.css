@@ -1,0 +1,7 @@
+.handshake_image2 {
+  width: 400px;
+  height: 632px;
+  border-radius: 5px;
+  grid-column: 2/3;
+  grid-row: 1/3;
+}

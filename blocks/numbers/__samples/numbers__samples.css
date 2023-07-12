@@ -1,0 +1,9 @@
+.numbers__samples {
+  width: 1400px;
+  height: 124px;
+  padding: 0 186px 0 202px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+}

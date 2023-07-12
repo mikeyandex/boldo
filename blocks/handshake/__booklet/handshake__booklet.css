@@ -1,0 +1,11 @@
+.handshake__booklet {
+  width: 1100px;
+  height: 632px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  position: relative;
+  top: -178px;
+  left: 0;
+  display: flex;
+  gap: 50px;
+}

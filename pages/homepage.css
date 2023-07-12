@@ -3,6 +3,7 @@
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/_header-about_height/header_header-about_height.css);
 @import url(../blocks/header/_headerv2_white/header_headerv2_white.css);
 @import url(../blocks/header/__head/header__head.css);
 @import url(../blocks/header/__head/_v2_height/header__head_v2_height.css);
@@ -18,8 +19,10 @@
 @import url(../blocks/header/__intro/header__intro.css);
 @import url(../blocks/header/__boldo/header__boldo.css);
 @import url(../blocks/header/__boldov2/header__boldov2.css);
+@import url(../blocks/header/__boldo-about/header__boldo-about.css);
 @import url(../blocks/header/__comment/header__comment.css);
 @import url(../blocks/header/__comment/_color_gray/header__comment_color_gray.css);
+@import url(../blocks/header/__comment-about/header__comment-about.css);
 @import url(../blocks/header/__button-block/header__button-block.css);
 @import url(../blocks/header/__button-block/_v2_padding-top/header__button-block_v2_padding-top.css);
 @import url(../blocks/header/__button-by/header__button-by.css);
@@ -34,6 +37,9 @@
 @import url(../blocks/header/__circle/_circlev2_grey/header__circle_circlev2_grey.css);
 
 @import url(../blocks/handshake/handshake.css);
+@import url(../blocks/handshake/_height_value/handshake_height_value.css);
+@import url(../blocks/handshake/__booklet/handshake__booklet.css);
+@import url(../blocks/handshake/__booklet-column/handshake__booklet-column.css);
 @import url(../blocks/handshake/_color_darkblue/handshake_color_darkblue.css);
 @import url(../blocks/handshake/__explanation/handshake__explanation.css);
 @import url(../blocks/handshake/__explanation/_color_lightgrey/handshake__explanation_color_lightgrey.css);
@@ -43,6 +49,11 @@
 @import url(../blocks/handshake/__info/handshake__info.css);
 @import url(../blocks/handshake/__section/handshake__section.css);
 @import url(../blocks/handshake/__image/handshake__image.css);
+@import url(../blocks/handshake/__image/_height_285/handshake__image_height_285.css);
+@import url(../blocks/handshake/__image/_height_303/handshake__image_height_303.css);
+@import url(../blocks/handshake/__image/_height_287/handshake__image_height_287.css);
+@import url(../blocks/handshake/__image/_height_305/handshake__image_height_305.css);
+@import url(../blocks/handshake/__image2/handshake__image2.css);
 @import url(../blocks/handshake/__section-heading/handshake__section-heading.css);
 @import url(../blocks/handshake/__section-heading/_color_white/handshake__section-heading_color_white.css);
 @import url(../blocks/handshake/__box/handshake__box.css);
@@ -138,3 +149,29 @@
 @import url(../blocks/footer/__item/footer__item.css);
 @import url(../blocks/footer/__item-bold/footer__item-bold.css);
 @import url(../blocks/footer/__button-hiring/footer__button-hiring.css);
+
+@import url(../blocks/story/story.css);
+@import url(../blocks/story/__explanation/story__explanation.css);
+@import url(../blocks/story/__heading/story__heading.css);
+
+@import url(../blocks/numbers/numbers.css);
+@import url(../blocks/numbers/__samples/numbers__samples.css);
+@import url(../blocks/numbers/__stat/numbers__stat.css);
+@import url(../blocks/numbers/__stat-explanation/numbers__stat-explanation.css);
+
+@import url(../blocks/team/team.css);
+@import url(../blocks/team/__heading/team__heading.css);
+@import url(../blocks/team/__image/team__image.css);
+@import url(../blocks/team/__members/team__members.css);
+@import url(../blocks/team/__name/team__name.css);
+@import url(../blocks/team/__job/team__job.css);
+@import url(../blocks/team/__explanation/team__explanation.css);
+
+
+@import url(../blocks/values/values.css);
+@import url(../blocks/values/__heading/values__heading.css);
+@import url(../blocks/values/__heading/_color_white/values__heading_color_white.css);
+@import url(../blocks/values/__explanation/values__explanation.css);
+@import url(../blocks/values/__image/value__image.css);
+@import url(../blocks/values/__item/values__item.css);
+@import url(../blocks/values/__slogan/values__slogan.css);
