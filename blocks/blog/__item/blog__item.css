@@ -1,0 +1,7 @@
+.blog__item {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 78px;
+}

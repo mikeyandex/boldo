@@ -1,0 +1,6 @@
+.team__gallery-item {
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  justify-content: space-between;
+}

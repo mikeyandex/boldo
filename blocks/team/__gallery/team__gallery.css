@@ -1,0 +1,11 @@
+.team__gallery {
+  width: 900px;
+  height: fit-content;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  display:grid;
+  row-gap: 46px;
+  column-gap: 102px;
+  margin: 0 auto;
+  padding: 111px 0 123px 0;
+}

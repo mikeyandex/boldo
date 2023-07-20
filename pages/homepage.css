@@ -4,7 +4,9 @@
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/_header-about_height/header_header-about_height.css);
+@import url(../blocks/header/__headerv2-green/header__headerv2-green.css);
 @import url(../blocks/header/_headerv2_white/header_headerv2_white.css);
+@import url(../blocks/header/_header-aboutv2_height/header_header-aboutv2_height.css);
 @import url(../blocks/header/__head/header__head.css);
 @import url(../blocks/header/__head/_v2_height/header__head_v2_height.css);
 @import url(../blocks/header/__logo/header__logo.css);
@@ -13,14 +15,17 @@
 @import url(../blocks/header/__menu/_menuv2_darkblue/header__menu_menuv2_darkblue.css);
 @import url(../blocks/header/__button/header__button.css);
 @import url(../blocks/header/__button/_buttonv2_darkblue/header__button_buttonv2_darkblue.css);
+@import url(../blocks/header/__button/_buttonv2_green/header__button_buttonv2_green.css);
 @import url(../blocks/header/__wrapper/header__wrapper.css);
 @import url(../blocks/header/__description/header__description.css);
 @import url(../blocks/header/__charts/header__charts.css);
 @import url(../blocks/header/__intro/header__intro.css);
 @import url(../blocks/header/__boldo/header__boldo.css);
 @import url(../blocks/header/__boldov2/header__boldov2.css);
+@import url(../blocks/header/__boldov2/_margin_top/header__boldov2_margin_top.css);
 @import url(../blocks/header/__boldo-about/header__boldo-about.css);
 @import url(../blocks/header/__comment/header__comment.css);
+@import url(../blocks/header/__commentv2-green/header__commentv2-green.css);
 @import url(../blocks/header/__comment/_color_gray/header__comment_color_gray.css);
 @import url(../blocks/header/__comment-about/header__comment-about.css);
 @import url(../blocks/header/__button-block/header__button-block.css);
@@ -35,6 +40,7 @@
 @import url(../blocks/header/__links/_linksv2_margin/header__links_linksv2_margin.css);
 @import url(../blocks/header/__circle/header__circle.css);
 @import url(../blocks/header/__circle/_circlev2_grey/header__circle_circlev2_grey.css);
+@import url(../blocks/header/__aboutv2-wrapper/header__aboutv2-wrapper.css);
 
 @import url(../blocks/handshake/handshake.css);
 @import url(../blocks/handshake/_height_value/handshake_height_value.css);
@@ -42,7 +48,11 @@
 @import url(../blocks/handshake/__booklet-column/handshake__booklet-column.css);
 @import url(../blocks/handshake/_color_darkblue/handshake_color_darkblue.css);
 @import url(../blocks/handshake/__explanation/handshake__explanation.css);
+@import url(../blocks/handshake/__explanation-darkblue/handshake__explanation-darkblue.css);
+@import url(../blocks/handshake/__explanation/_color_darkblue/handshake__explanation_color_darkblue.css);
 @import url(../blocks/handshake/__explanation/_color_lightgrey/handshake__explanation_color_lightgrey.css);
+@import url(../blocks/handshake/__explanation/_color_white/handshake__explanation_color_white.css);
+
 @import url(../blocks/handshake/__heading/handshake__heading.css);
 @import url(../blocks/handshake/__heading/_color_white/handshake__heading_color_white.css);
 @import url(../blocks/handshake/__heading/_headingv2_padding/handshake__heading_headingv2_padding.css);
@@ -151,19 +161,31 @@
 @import url(../blocks/footer/__button-hiring/footer__button-hiring.css);
 
 @import url(../blocks/story/story.css);
+@import url(../blocks/story/_storyv2_darkblue/story__storyv2_darkblue.css);
+@import url(../blocks/story//_storyv2_height/story__storyv2_height_625.css);
 @import url(../blocks/story/__explanation/story__explanation.css);
 @import url(../blocks/story/__heading/story__heading.css);
 
 @import url(../blocks/numbers/numbers.css);
+@import url(../blocks/numbers/_numbersv2_height/numbers_numbersv2_height.css);
+@import url(../blocks/numbers/_numbersv2_white/numbers_numbersv2_white.css);
 @import url(../blocks/numbers/__samples/numbers__samples.css);
 @import url(../blocks/numbers/__stat/numbers__stat.css);
 @import url(../blocks/numbers/__stat-explanation/numbers__stat-explanation.css);
+@import url(../blocks/numbers/__stat-explanation/_color_darkblue/numbers__stat-explanation_color_darkblue.css);
 
 @import url(../blocks/team/team.css);
+@import url(../blocks/team/_padding_top/team_padding_top.css);
 @import url(../blocks/team/__heading/team__heading.css);
 @import url(../blocks/team/__image/team__image.css);
+@import url(../blocks/team/__imagev2/team__imagev2.css);
+@import url(../blocks/team/__gallery/team__gallery.css);
+@import url(../blocks/team/__imagev2-gallery/team__imagev2-gallery.css);
+@import url(../blocks/team/__gallery-item/team__gallery-item.css);
 @import url(../blocks/team/__members/team__members.css);
+@import url(../blocks/team/__membersv2/team__membersv2.css);
 @import url(../blocks/team/__name/team__name.css);
+@import url(../blocks/team/__name/_margin_bottom/team_margin_bottom.css);
 @import url(../blocks/team/__job/team__job.css);
 @import url(../blocks/team/__explanation/team__explanation.css);
 
@@ -175,3 +197,9 @@
 @import url(../blocks/values/__image/value__image.css);
 @import url(../blocks/values/__item/values__item.css);
 @import url(../blocks/values/__slogan/values__slogan.css);
+
+@import url(../blocks/blog/blog.css);
+@import url(../blocks/blog/__item/blog__item.css);
+@import url(../blocks/blog/__list/blog__list.css);
+@import url(../blocks/blog/__heading/blog__heading.css);
+@import url(../blocks/blog/__explanation/blog__explanation.css);

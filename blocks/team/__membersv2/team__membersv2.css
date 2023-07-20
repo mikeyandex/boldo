@@ -1,0 +1,7 @@
+.team__membersv2 {
+  width: 900px;
+  height: fit-content;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 55px;
+}

@@ -1,0 +1,6 @@
+.header__aboutv2-wrapper {
+  width: 100%;
+  height: min-content;
+  display: flex;
+  justify-content: space-between;
+}
