@@ -1,0 +1,5 @@
+.header__houses {
+  width: 550px;
+  height: fit-content;
+  object-fit: contain;
+}

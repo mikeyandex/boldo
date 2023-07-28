@@ -41,6 +41,10 @@
 @import url(../blocks/header/__circle/header__circle.css);
 @import url(../blocks/header/__circle/_circlev2_grey/header__circle_circlev2_grey.css);
 @import url(../blocks/header/__aboutv2-wrapper/header__aboutv2-wrapper.css);
+@import url(../blocks/header/__houses/header__houses.css);
+@import url(../blocks/header/__blog-wrapper/header__blog-wrapper.css);
+@import url(../blocks/header/__blog-page-category/header__blog-page-category.css);
+@import url(../blocks/header/__blog-page-header/header__blog-page-header.css);
 
 @import url(../blocks/handshake/handshake.css);
 @import url(../blocks/handshake/_height_value/handshake_height_value.css);
@@ -73,6 +77,7 @@
 @import url(../blocks/handshake/__arrow/handshake__arrow.css);
 @import url(../blocks/handshake/__arrow/_color_white/handshake__arrow_color_white.css);
 @import url(../blocks/handshake/__comment/handshake__comment.css);
+@import url(../blocks/handshake/__blog-page/handshake__blog-page.css);
 
 @import url(../blocks/connect/connect.css);
 @import url(../blocks/connect//_connectv2_padding/connect_connectv2_padding.css);
@@ -110,6 +115,7 @@
 @import url(../blocks/enterprise/__badge/enterprise__badge.css);
 @import url(../blocks/enterprise/__comment/enterprise__comment.css);
 @import url(../blocks/enterprise/__name-job/enterprise__name-job.css);
+@import url(../blocks/enterprise/__name-job/_margin_top/enterprise__name-job_margin_top.css);
 @import url(../blocks/enterprise/__name/enterprise__name.css);
 @import url(../blocks/enterprise/__job/enterprise__job.css);
 @import url(../blocks/enterprise/__author/enterprise__author.css);
@@ -131,6 +137,8 @@
 @import url(../blocks/category/__image/category__image.css);
 @import url(../blocks/category/__info/category__info.css);
 @import url(../blocks/category/__wrapper/category__wrapper.css);
+@import url(../blocks/category/__wrapper/_margin_top/category__wrapper_margin_top.css);
+@import url(../blocks/category/__wrapper/_margin-news_top/category__wrapper_margin-news_top.css);
 @import url(../blocks/category/__heading/category__heading.css);
 @import url(../blocks/category/__date/category__date.css);
 @import url(../blocks/category/__comment/category__comment.css);
@@ -199,7 +207,21 @@
 @import url(../blocks/values/__slogan/values__slogan.css);
 
 @import url(../blocks/blog/blog.css);
+@import url(../blocks/blog/__header/blog__header.css);
 @import url(../blocks/blog/__item/blog__item.css);
 @import url(../blocks/blog/__list/blog__list.css);
 @import url(../blocks/blog/__heading/blog__heading.css);
 @import url(../blocks/blog/__explanation/blog__explanation.css);
+
+@import url(../blocks/blog-page/blog-page.css);
+@import url(../blocks/blog-page/__explanation/blog-page__explanation.css);
+@import url(../blocks/blog-page/__heading/blog-page__heading.css);
+@import url(../blocks/blog-page/__wrapper/blog-page__wrapper.css);
+
+@import url(../blocks/news/news.css);
+@import url(../blocks/news/__column/news__column.css);
+@import url(../blocks/news/__wrapper/news__wrapper.css);
+@import url(../blocks/news/__latest-news/news__latest-news.css);
+@import url(../blocks/news/__name&job/news__name&job.css);
+@import url(../blocks/news/__button/news__button.css);
+@import url(../blocks/news/__button/_font_size/news__button_font_size.css);
